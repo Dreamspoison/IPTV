@@ -349,6 +349,18 @@ http://myott.tv/stream/DLUB8U2ABS/310.m3u8
 http://myott.tv/stream/DLUB8U2ABS/75.m3u8
 #EXTINF:-1,Победа
 http://myott.tv/stream/DLUB8U2ABS/312.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/2109
+#EXTINF:-1,Sky Sport F1 Full HD
+http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/24151
+#EXTINF:-1,Sky Sport F1 SD
+http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/5583
+#EXTINF:-1,Sky Sport Moto GP HD
+http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/2161
+#EXTINF:-1,Sky Sport MotoGP Full HD
+http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/24150
+#EXTINF:-1,Sky Sport Moto GP SD
+http://mrobotdefinition.ddns.net:8000/wDl8vO2Pnc/AX9Vv0kFSM/5584
 #EXTINF:-1,Матч! Игра HD
 http://myott.tv/stream/DLUB8U2ABS/188.m3u8
 #EXTINF:-1,Eurosport HD
