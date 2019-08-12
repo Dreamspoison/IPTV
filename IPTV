@@ -1,4 +1,62 @@
 #EXTM3U
+#EXTINF:0,BTV
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_50cf87.acelive&.mp4
+#EXTINF:0,BTV hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/btv/index.m3u8
+#EXTINF:0,BTV hls
+#EXTVLCOPT:network-caching=1000
+http://46.251.40.201:9981/stream/channelid/1110998357?ticket=51552995FA2DF16797414517E097AF8B8A2D8691&profile=pass
+#EXTINF:0,Info TV hls
+#EXTVLCOPT:network-caching=1000
+http://46.251.40.201:9981/stream/channelid/1425282269?ticket=292078A4743DFD8EBA2ADDE9DBA066D970023A62&profile=pass
+#EXTINF:0,Lietuvos ryto televizija hls
+#EXTVLCOPT:network-caching=1000
+http://46.251.40.201:9981/stream/channelid/166103600?ticket=5033904EB488E0D6470E7BDE93C4191C7A8B89CC&profile=pass
+#EXTINF:0,Liuks! hls
+#EXTVLCOPT:network-caching=1000
+http://46.251.40.201:9981/stream/channelid/736205318?ticket=183E79AAFFEA67505F8FF1A23634A9E62C1931D1&profile=pass
+#EXTINF:0,LNK
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_8fe6e8.acelive&.mp4
+#EXTINF:0,LNK hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/lnk/index.m3u8
+#EXTINF:0,LNK hls
+#EXTVLCOPT:network-caching=1000
+http://46.251.40.201:9981/stream/channelid/1579218499?ticket=A288DE824B326CF725A8A988DECA13020D0968DE&profile=pass
+#EXTINF:0,LRT HD
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
+#EXTINF:0,TV1 hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/tv1/index.m3u8
+#EXTINF:0,TV1 hls
+#EXTVLCOPT:network-caching=1000
+http://46.251.40.201:9981/stream/channelid/1767920004?ticket=9CEAE6E7227DEB40DDC62D5C00A41C6F70132A6F&profile=pass
+#EXTINF:0,TV3
+#EXTVLCOPT:network-caching=1000
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_24e09d.acelive&.mp4
+#EXTINF:0,TV3
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/tv3/index.m3u8
+#EXTINF:0,TV3 hls
+#EXTVLCOPT:network-caching=1000
+http://46.251.40.201:9981/stream/channelid/1226747931?ticket=99D0EFECA09D4869824D2F6449AC4F2852D183D0&profile=pass
+#EXTINF:0,TV6 hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/tv6/index.m3u8
+#EXTINF:0,TV6 hls
+#EXTVLCOPT:network-caching=1000
+http://46.251.40.201:9981/stream/channelid/624858534?ticket=11471D61849A16608083B8923FD2B86F2DCF2573&profile=pass
+#EXTINF:0,TV8 hls
+#EXTVLCOPT:network-caching=1000
+http://88.216.8.122:8080/tv8/index.m3u8
+#EXTINF:0,TV8 hls
+#EXTVLCOPT:network-caching=1000
+http://46.251.40.201:9981/stream/channelid/1437189808?ticket=AD2B6A439336D51F2C3B97F9BF8FE4F3BD8EB42D&profile=pass
+#EXTINF:0,#EXTVLCOPT:network-caching=1000
 #EXTINF:-1,Первый канал HD
 http://myott.tv/stream/DLUB8U2ABS/131.m3u8
 #EXTINF:-1,Россия HD
