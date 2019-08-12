@@ -1,5 +1,4 @@
 #EXTM3U
-Lietuviški:
 #EXTINF:0,BTV
 #EXTVLCOPT:network-caching=1000
 http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_50cf87.acelive&.mp4
