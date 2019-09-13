@@ -1,4 +1,57 @@
 #EXTM3U
+#EXTINF:-1,Беларусь 5 + HD
+http://persik.by/stream/5914/413845/10408.m3u8
+#EXTINF:-1,Беларусь 1 HD
+http://persik.by/stream/5914/413845/10405.m3u8
+#EXTINF:-1,Беларусь 2 HD
+http://persik.by/stream/5914/413845/10406.m3u8
+#EXTINF:-1,Беларусь 3 HD
+http://persik.by/stream/5914/413845/10407.m3u8
+#EXTINF:-1,TV3 LT HD
+http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
+#EXTINF:-1,TV6 LT
+http://213.252.252.17/live/eds/TV6_LT_SD/HLS_encr/TV6_LT_SD.m3u8
+#EXTINF:-1,TV8 LT
+http://213.252.252.17/live/eds/TV8_LT_SD/HLS_encr/TV8_LT_SD.m3u8
+#EXTINF:-1,LNK
+http://213.252.252.17/live/eds/LNK/HLS_encr/LNK.m3u8
+#EXTINF:-1,TV1
+http://213.252.252.17/live/eds/TV1/HLS_encr/TV1.m3u8
+#EXTINF:-1 group-title="Lietuviški" tvg-id="lrt-tv" tvg-logo="https://upload.wikimedia.org/wikipedia/lt/8/84/Lrt_HD.jpg",LRT HD
+http://127.0.0.1:6878/ace/getstream?url=http%3A%2F%2F91.92.66.82%2Ftrash%2Fttv-list%2Facelive%2Fas_cid_e252e2.acelive&.mp4
+#EXTINF:-1,NTV Mir Baltic
+http://213.252.252.17/live/eds/NTV_Mir/HLS_encr/NTV_Mir.m3u8
+#EXTINF:-1,PBK +
+http://213.252.252.17/live/eds/PBK/HLS_encr/PBK.m3u8
+#EXTINF:-1,Ren TV Baltic
+http://213.252.252.17/live/eds/Ren_TV/HLS_encr/Ren_TV.m3u8
+#EXTINF:-1,TV1000
+http://213.252.252.17/live/eds/TV1000_SD/HLS_encr/TV1000_SD.m3u8
+#EXTINF:-1,TV1000 Action
+http://213.252.252.17/live/eds/TV1000_action_SD/HLS_encr/TV1000_action_SD.m3u8
+#EXTINF:-1,TV1000 Premium
+http://213.252.252.17/live/eds/TV1000PremiumHD/HLS_encr/TV1000PremiumHD.m3u8
+#EXTINF:-1,Viasat Nature
+http://213.252.252.17/live/eds/Viasat_Nature_SD/HLS_encr/Viasat_Nature_SD.m3u8
+#EXTINF:-1,Viasat History
+http://213.252.252.2/live/eds/Viasat_History_SD/HLS_encr/Viasat_History_SD.m3u8
+#EXTINF:-1,Viasat Explorer
+http://213.252.252.2/live/eds/Viasat_Explorer_SD/HLS_encr/Viasat_Explorer_SD.m3u8
+#EXTINF:-1,National Geographic
+http://213.252.252.17/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
+#EXTINF:-1,Sport1 LT
+http://213.252.252.2/live/eds/Sport1/HLS_encr/Sport1.m3u8
+#EXTINF:1,Idman  /Az +
+#EXTVLCOPT:network-caching=1000
+http://streams.livetv.az/azerbaijan/idman2_stream/playlist.m3u8
+#EXTINF:-1,Беларусь 5 + HD
+http://persik.by/stream/5914/413845/10408.m3u8
+#EXTINF:-1,Беларусь 1 HD
+http://persik.by/stream/5914/413845/10405.m3u8
+#EXTINF:-1,Беларусь 2 HD
+http://persik.by/stream/5914/413845/10406.m3u8
+#EXTINF:-1,Беларусь 3 HD
+http://persik.by/stream/5914/413845/10407.m3u8
 #EXTINF:-1,Первый + HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/194
 #EXTINF:-1,Первый канал +
@@ -477,12 +530,6 @@ http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2324
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2323
 #EXTINF:-1,Футбол HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2326
-#EXTINF:-0,Беларусь 1 + HD
-http://persik.tv/stream/6442/415447/10405.m3u8
-#EXTINF:-0,Беларусь 2 + HD
-http://persik.tv/stream/6442/415447/10406.m3u8
-#EXTINF:-0,Беларусь 3 + HD
-http://persik.tv/stream/6442/415447/10407.m3u8
 #EXTINF:0,Пятый Канал
 #EXTGRP:новости
 http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/112/index.m3u8
