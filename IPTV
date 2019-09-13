@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1,Первый HD
+#EXTINF:-1,Первый + HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/194
-#EXTINF:-1,Первый канал
+#EXTINF:-1,Первый канал +
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/260
-#EXTINF:-1,Первый канал (+2)
+#EXTINF:-1,Первый канал +(+2)
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1262
-#EXTINF:-1,Первый канал (+4)
+#EXTINF:-1,Первый канал +(+4)
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1668
-#EXTINF:-1,Первый канал (+6)
+#EXTINF:-1,Первый канал +(+6)
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2273
-#EXTINF:-1,Первый канал (+8)
+#EXTINF:-1,Первый канал +(+8)
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2276
 #EXTINF:-1,Россия 1 HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/197
-#EXTINF:-1,Россия 1
+#EXTINF:-1,Россия + 1
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/266
 #EXTINF:-1,Россия 1 (+2)
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1267
@@ -23,9 +23,9 @@ http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1667
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2274
 #EXTINF:-1,Россия 1 (+8)
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2277
-#EXTINF:-1,ТНТ HD
+#EXTINF:-1,ТНТ + HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/102
-#EXTINF:-1,ТНТ
+#EXTINF:-1,ТНТ +
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/349
 #EXTINF:-1,ТНТ (+2)
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1264
