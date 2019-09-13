@@ -465,56 +465,8 @@ http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/595
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1853
 #EXTINF:-1,Мама
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/119
-#EXTINF:-1,DFM
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1898
 #EXTINF:-1,Europa Plus
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/593
-#EXTINF:-1,Pirate Station
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/360
-#EXTINF:-1,Radio Record
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/364
-#EXTINF:-1,Record Chill
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/354
-#EXTINF:-1,Record Club
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/356
-#EXTINF:-1,Record Deep
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/357
-#EXTINF:-1,Record Dubstep
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/358
-#EXTINF:-1,Record Megamix
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/359
-#EXTINF:-1,Record Rock
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/361
-#EXTINF:-1,Record Russian Mix
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/362
-#EXTINF:-1,Record VIP mix
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1547
-#EXTINF:-1,Trancemission Radio
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/363
-#EXTINF:-1,Радио Дача
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/594
-#EXTINF:-1,Эхо москвы
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1423
-#EXTINF:-1,LV: 3+
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1811
-#EXTINF:-1,LV: LNT
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1813
-#EXTINF:-1,LV: LTV7
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1816
-#EXTINF:-1,LV: TV3 LV
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1810
-#EXTINF:-1,LV: TV6
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1812
-#EXTINF:-1,LV: LTV1
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/1538
-#EXTINF:-1,LV: Kanals2
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2149
-#EXTINF:-1,LV: Latuijas Slagerkanals
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2148
-#EXTINF:-1,LV: PBK
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2150
-#EXTINF:-1,LV: TV1000 Premium HD
-http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2311
 #EXTINF:-1,ОТР
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2327
 #EXTINF:-1,RTG HD
@@ -525,11 +477,11 @@ http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2324
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2323
 #EXTINF:-1,Футбол HD
 http://ott.shara.club:80/C82isEEUhG/bNwafZT9av/2326
-#EXTINF:-0,Беларусь 1 HD
+#EXTINF:-0,Беларусь 1 + HD
 http://persik.tv/stream/6442/415447/10405.m3u8
-#EXTINF:-0,Беларусь 2 HD
+#EXTINF:-0,Беларусь 2 + HD
 http://persik.tv/stream/6442/415447/10406.m3u8
-#EXTINF:-0,Беларусь 3 HD
+#EXTINF:-0,Беларусь 3 + HD
 http://persik.tv/stream/6442/415447/10407.m3u8
 #EXTINF:0,Пятый Канал
 #EXTGRP:новости
