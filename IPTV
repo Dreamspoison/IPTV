@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-0,Беларусь 1 HD
+http://persik.tv/stream/6442/415447/10405.m3u8
+#EXTINF:-0,Беларусь 2 HD
+http://persik.tv/stream/6442/415447/10406.m3u8
+#EXTINF:-0,Беларусь 3 HD
+http://persik.tv/stream/6442/415447/10407.m3u8
 #EXTINF:0,Пятый Канал
 #EXTGRP:новости
 http://resivermd222.iptvspy.net/iptv/7HY8RDLF7Z7CE3/112/index.m3u8
