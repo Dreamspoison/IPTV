@@ -1,4 +1,18 @@
 #EXTM3U
+#EXTINF:-1,Беларусь 1 HD
+http://persik.by/stream/2864/416522/10405.m3u8
+#EXTINF:-1,Беларусь 2 HD
+http://persik.by/stream/2864/416522/10406.m3u8
+#EXTINF:-1,Беларусь 3 HD
+http://persik.by/stream/2864/416522/10407.m3u8
+#EXTINF:-1,Беларусь 1
+http://persik.by/stream/2864/416522/118.m3u8
+#EXTINF:-1,Беларусь 2
+http://persik.by/stream/2864/416522/148.m3u8
+#EXTINF:-1,Беларусь 3
+http://persik.by/stream/2864/416522/883.m3u8
+#EXTINF:-1,Беларусь 5
+http://persik.by/stream/2864/416522/10254.m3u8
 #EXTINF:-1,TV3 LT HD
 http://213.252.252.17/live/eds/TV3_LT_HD/HLS_encr/TV3_LT_HD.m3u8
 #EXTINF:-1,TV6 LT
