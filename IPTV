@@ -1,18 +1,30 @@
 #EXTM3U
+#EXTINF:-1,1+1
+http://31.31.123.114:1194/udp/239.1.9.2:1234
+#EXTINF:-1,ICTV
+http://31.31.123.114:1194/udp/239.1.11.4:1234
+#EXTINF:-1,Новий канал
+http://31.31.123.114:1194/udp/239.1.7.5:1234
+#EXTINF:-1,СТБ
+http://31.31.123.114:1194/udp/239.1.3.6:1234
+#EXTINF:-1,ТЕТ
+http://31.31.123.114:1194/udp/239.1.10.9:1234
+#EXTINF:-1,НТН
+http://31.31.123.114:1194/udp/239.1.6.8:1234
+#EXTINF:-1,Інтер
+http://31.31.123.114:1194/udp/239.1.13.3:1234
+#EXTINF:-1,Інтер+
+http://31.31.123.114:1194/udp/239.2.35.71:1234
+#EXTINF:-1,Пятница! (International)
+http://31.31.123.114:1194/udp/239.2.153.156:1234
 #EXTINF:-1,Беларусь 1 HD
-http://persik.by/stream/2864/416522/10405.m3u8
+http://persik.tv/stream/5520/418904/10405.m3u8
 #EXTINF:-1,Беларусь 2 HD
-http://persik.by/stream/2864/416522/10406.m3u8
+http://persik.tv/stream/5520/418904/10406.m3u8
 #EXTINF:-1,Беларусь 3 HD
-http://persik.by/stream/2864/416522/10407.m3u8
-#EXTINF:-1,Беларусь 1
-http://persik.by/stream/2864/416522/118.m3u8
-#EXTINF:-1,Беларусь 2
-http://persik.by/stream/2864/416522/148.m3u8
-#EXTINF:-1,Беларусь 3
-http://persik.by/stream/2864/416522/883.m3u8
-#EXTINF:-1,Беларусь 5
-http://persik.by/stream/2864/416522/10254.m3u8
+http://persik.tv/stream/5520/418904/10407.m3u8
+#EXTINF:-1,Беларусь 5 HD
+http://persik.tv/stream/5520/418904/10408.m3u8
 #EXTINF:-1,Epic Drama HD
 http://194.204.46.137/live/eds/EpicDramaHD/HLS_encr/EpicDramaHD.m3u8
 #EXTINF:-1,TV3 LT HD
